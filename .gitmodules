@@ -1,3 +1,6 @@
 [submodule "MatplotVids"]
 	path = MatplotVids
 	url = git@github.com:StephanHolgerD/MatplotVids.git
+[submodule "ClinVarCharts"]
+	path = ClinVarCharts
+	url = git@github.com:StephanHolgerD/ClinVarCharts.git
