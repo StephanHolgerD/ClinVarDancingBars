@@ -1,0 +1,3 @@
+[submodule "MatplotVids"]
+	path = MatplotVids
+	url = git@github.com:StephanHolgerD/MatplotVids.git
