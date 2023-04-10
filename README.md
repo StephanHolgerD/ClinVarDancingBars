@@ -1,2 +1,2 @@
 # ClinVarDancingBars
-![](movingbars.gif)
+![](https://github.com/StephanHolgerD/ClinVarDancingBars/blob/master/movingbars.gif)
